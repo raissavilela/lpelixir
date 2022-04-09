@@ -1,5 +1,5 @@
  
-<h1 align="center">Trabalho sobre Sintaxe e Semântica de Linguagens de Programação</h1>
+<h2 align="center">Trabalho sobre Sintaxe e Semântica de Linguagens de Programação</h2>
 
 <h2 align="center" >  ELIXIR </h2>
 
