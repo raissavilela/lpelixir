@@ -1,7 +1,7 @@
  
 <h1 align="center">Trabalho sobre Sintaxe e Semântica de Linguagens de Programação</h1>
 
-<h3 align="center" >  ELIXIR </h3>
+<h2 align="center" >  ELIXIR </h2>
 
 ### Sobre 
 
