@@ -16,7 +16,9 @@ O trabalho proposto consiste em apresentar os principais recursos da linguagem d
 
 - Execute os seguintes comandos:
  ```iex.bat```
+ 
 ```c("lpelixir.ex") [LP]```
+
 ```LP.main```
 
 ### Requisitos
