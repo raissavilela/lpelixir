@@ -26,9 +26,3 @@ O trabalho proposto consiste em apresentar os principais recursos da linguagem d
 ```c("lpelixir.ex") [LP]```
 
 ```LP.main```
-
-### Requisitos
-
-- [X] Deve conter no mínimo 100 linhas
-- [X] Deve ser comentado
-- [X] Deve ser documentado
