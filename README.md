@@ -9,16 +9,15 @@ O trabalho proposto consiste em apresentar os principais recursos da linguagem d
 
 ### Instruções para Compilação
 
-- Acesse o path: ``` ./lpelixir/lib/ ```
-
-- Execute o comando a seguir: ```elixirc lpelixir.ex```
+Acesse o path: ``` ./lpelixir/lib/ ```
+Execute o comando a seguir: ```elixirc lpelixir.ex```
 
 ### Instruções para Execução
 
-- Execute os seguintes comandos:
+Execute os seguintes comandos:
 
- 1: ```iex.bat```
+* ```iex.bat```
  
- 2: ```c("lpelixir.ex") [LP]```
+* ```c("lpelixir.ex") [LP]```
 
- 3: ```LP.main```
+* ```LP.main```
