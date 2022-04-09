@@ -36,7 +36,7 @@ defmodule LP do
     # Atom (átomos) é um tipo de dados cujo valor é seu próprio nome. 
     # Muitas das vezes eles são utilizados para expressar o estado de uma operação, usando valores como :ok, :error.
     # Os tipos booleanos também são Atoms 
-    # is_atom() 
+    # is_atom() é uma função que verifica se o parâmetro é do tipo Atom.
     IO.puts "Atom #{is_atom(:Verde)}"
 
     # ---------------------------------- STRINGS ----------------------------------
